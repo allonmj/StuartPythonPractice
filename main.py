@@ -1,7 +1,7 @@
 import random
 
 def choose_word():
-    words = ['python', 'hangman', 'challenge', 'programming', 'computer', 'science', 'keyboard']
+    words = ['python', 'hangman', 'challenge', 'programming', 'computer', 'science', 'keyboard', 'super' 'commits', 'configure', ]
     return random.choice(words)
 
 def display_hangman(tries):
