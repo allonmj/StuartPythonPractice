@@ -106,3 +106,4 @@ def hangman():
 
 if __name__ == "__main__":
     hangman()
+print('Hello, World!') # Example change
